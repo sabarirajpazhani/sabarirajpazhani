@@ -1,6 +1,6 @@
 <h2>Hi there 👋 I'm Sabari Raj</h2>
 
-<table>
+<table border="0">
   <tr>
     <td>
       <p>Web Developer | CSE Final Year Student @Adhi College of Engineering and Technology</p>
