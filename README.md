@@ -1,16 +1,21 @@
-<div style="display: flex; align-items: center;">
-  <div>
-    <p>Hi there 👋 I'm Sabari Raj<br>
-    Web Developer | CSE Final Year Student @Adhi College of Engineering and Technology<br>
-    🎓 Pursuing a Bachelor's degree in Computer Science Engineering<br>
-    💻 Passionate about Full-Stack Development and Open Source<br>
-    🔍 Currently exploring Data Structures, Algorithms, and advanced Full-Stack Development<br>
-    🚀 Looking to collaborate on Web Development and AI projects<br>
-    📫 Reach out to me: [Your Contact Information]<br>
-    🌐 Building the web with precision, one line of code at a time!<br>
-    🔧 Pronouns: Digital Designer (Web Development and UI/UX Design)</p>
-  </div>
-  <div>
-    <img src="https://media.giphy.com/media/your-animation-url.gif" alt="Animation">
-  </div>
-</div>
+<h2>Hi there 👋 I'm Sabari Raj</h2>
+
+<table border="0">
+  <tr>
+    <td style="vertical-align: top;">
+      <p>Web Developer | CSE Final Year Student @Adhi College of Engineering and Technology</p>
+      <ul>
+        <li>🎓 Pursuing a Bachelor's degree in Computer Science Engineering</li>
+        <li>💻 Passionate about Full-Stack Development and Open Source</li>
+        <li>🔍 Currently exploring Data Structures, Algorithms, and advanced Full-Stack Development</li>
+        <li>🚀 Looking to collaborate on Web Development and AI projects</li>
+        <li>📫 Reach out to me: [Your Contact Information]</li>
+        <li>🌐 Building the web with precision, one line of code at a time!</li>
+        <li>🔧 Pronouns: Digital Designer (Web Development and UI/UX Design)</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <img src="https://user-images.githubusercontent.com/40719899/205479251-ffba5354-583f-491b-a1ef-ce919083e2b1.gif" alt="Animation" width="300"/>
+    </td>
+  </tr>
+</table>
