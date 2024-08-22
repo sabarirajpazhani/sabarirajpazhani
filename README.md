@@ -1,16 +1,11 @@
-## Hi there 👋
+Hi there 👋 I'm Sabari Raj  
+Web Developer | CSE Final Year Student @Adhi College of Engineering and Technology  
+🎓 Pursuing a Bachelor's degree in Computer Science Engineering  
+💻 Passionate about Full-Stack Development and Open Source  
+🔍 Currently exploring Data Structures, Algorithms, and advanced Full-Stack Development  
+🚀 Looking to collaborate on Web Development and AI projects  
+📫 Reach out to me: [Your Contact Information]  
+🌐 Building the web with precision, one line of code at a time!  
+🔧 Pronouns: Digital Designer (Web Development and UI/UX Design)
 
-<!--
-**sabarirajpazhani/sabarirajpazhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Animation]([https://media.giphy.com/media/your-animation-url.gif](https://user-images.githubusercontent.com/40719899/205479251-ffba5354-583f-491b-a1ef-ce919083e2b1.gif))
