@@ -1,4 +1,5 @@
-Hi there 👋 I'm Sabari Raj  
+## Hi there 👋 I'm Sabari Raj  
+
 Web Developer | CSE Final Year Student @Adhi College of Engineering and Technology  
 🎓 Pursuing a Bachelor's degree in Computer Science Engineering  
 💻 Passionate about Full-Stack Development and Open Source  
