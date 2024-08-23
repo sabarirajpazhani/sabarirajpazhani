@@ -7,7 +7,7 @@ Web Developer | CSE Final Year Student @Adhi College of Engineering and Technolo
 - 🎓 Pursuing Computer Science Engineering  
 - 💻 Passionate about Full-Stack Development and Open Source  
 - 🔍 Currently exploring DSA and advanced Full-Stack Development  
-- 🚀 Looking to collaborate on Web Development and AI projects  
+- 🚀 Looking to collaborate on Web Development and AI projects    
 - 📫 Reach out to me:  
   <a href="https://www.linkedin.com/in/sabari-raj-p-16a279230">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
