@@ -4,9 +4,9 @@ Web Developer | CSE Final Year Student @Adhi College of Engineering and Technolo
 
 <img align='right' width='370' height='290' src='https://user-images.githubusercontent.com/40719899/205479251-ffba5354-583f-491b-a1ef-ce919083e2b1.gif'>
 
-- 🎓 Pursuing a Bachelor's degree in Computer Science Engineering  
+- 🎓 Pursuing Computer Science Engineering  
 - 💻 Passionate about Full-Stack Development and Open Source  
-- 🔍 Currently exploring Data Structures, Algorithms, and advanced Full-Stack Development  
+- 🔍 Currently exploring DSA and advanced Full-Stack Development  
 - 🚀 Looking to collaborate on Web Development and AI projects  
 - 📫 Reach out to me:  
   <a href="https://www.linkedin.com/in/sabari-raj-p-16a279230">
@@ -19,5 +19,8 @@ Web Developer | CSE Final Year Student @Adhi College of Engineering and Technolo
 ### I Code in
 
 <img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> <img width="50" height="50" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/> <img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> <img width="50" height="50" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/> <img width="50" height="50" src="https://img.icons8.com/color/48/javascript.png" alt="javascript"/> <img width="50" height="50" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/> <img width="50" height="50" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/> <img width="50" height="50" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/> <img width="50" height="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/> <img width="50" height="50" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/> 
- 
 
+
+ ### IDE and Tools I Use
+
+<img width="50" height="50" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/android-studio--v3.png" alt="android-studio--v3"/> <img width="50" height="50" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/> <img width="50" height="50" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/> <img width="50" height="50" src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman-api"/> <img width="64" height="64" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="postman-api"/>
