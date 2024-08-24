@@ -33,3 +33,8 @@ Web Developer | CSE Final Year Student @Adhi College of Engineering and Technolo
 ### Most Used Language
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabarirajpazhani&layout=donut)](https://github.com/sabarirajpazhani/github-readme-stats)
+
+
+### Github Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabarirajpazhani)](https://github.com/sabarirajpazhani/github-readme-stats)
