@@ -38,3 +38,7 @@ Web Developer | CSE Final Year Student @Adhi College of Engineering and Technolo
 ### Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabarirajpazhani)](https://github.com/sabarirajpazhani/github-readme-stats)
+
+### Github Graph
+
+[![Sabari Raj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sabarirajpazhani&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/sabarirajpazhani/github-readme-activity-graph)
