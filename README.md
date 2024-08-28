@@ -42,3 +42,7 @@ Web Developer | CSE Final Year Student @Adhi College of Engineering and Technolo
 ### Github Graph
 
 [![Sabari Raj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sabarirajpazhani&bg_color=000000&color=ffffff&line=FF0000&point=ffffff&area=true&hide_border=true)](https://github.com/sabarirajpazhani/github-readme-activity-graph)
+
+
+![Group 3 (1)](https://github.com/user-attachments/assets/8b4dabf7-42ed-4f85-a38e-195d0dd97063)
+
