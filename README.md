@@ -27,7 +27,7 @@ Web Developer | CSE Final Year Student @Adhi College of Engineering and Technolo
 
 ### Coding Practice Platform I Use
 
-<img width="70" height="70" src="https://img.icons8.com/?size=512&id=O4SEeX66BY8o&format=png"/> <img width="70" height="70" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp"/> <img width="70" height="70" src="https://img.icons8.com/?size=512&id=O4SEeX66BY8o&format=png"/>
+<img width="70" height="70" src="https://img.icons8.com/?size=512&id=O4SEeX66BY8o&format=png"/> <img width="70" height="70" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp"/> <img width="70" height="70" src="https://play-lh.googleusercontent.com/ZI21NMObsjB7DbPU_EXRymHJL3HQpfsrB2N4CWb-diXm4xjl_13mmetYQZvcpgGf-64"/>
 
 ### Workspace
 
