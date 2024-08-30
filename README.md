@@ -27,7 +27,7 @@ Web Developer | CSE Final Year Student @Adhi College of Engineering and Technolo
 
 ### Coding Practice Platform I Use
 
-<img width="50" height="50" src="https://img.icons8.com/?size=512&id=O4SEeX66BY8o&format=png"/> 
+<img width="70" height="70" src="https://img.icons8.com/?size=512&id=O4SEeX66BY8o&format=png"/> 
 
 ### Workspace
 
