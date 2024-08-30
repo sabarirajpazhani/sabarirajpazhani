@@ -25,6 +25,10 @@ Web Developer | CSE Final Year Student @Adhi College of Engineering and Technolo
 
 <img width="50" height="50" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="50" height="50" src="https://seeklogo.com/images/A/android-studio-logo-1EE788C6EC-seeklogo.com.png" alt="android-studio--v3"/> <img width="50" height="50" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/> <img width="50" height="50" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/> <img width="50" height="50" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman-api"/> <img width="50" height="50" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="postman-api"/> <img width="50" height="50" src="https://seeklogo.com/images/C/chatgpt-logo-6E960AECFF-seeklogo.com.png" alt="postman-api"/> <img width="50" height="50" src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" />  <img width="100" height="50" src="https://seeklogo.com/images/V/virtualbox-logo-43C90970AC-seeklogo.com.png" alt="postman-api"/> 
 
+### Coding Practice Platform I Use
+
+<img width="100" height="50" src="https://img.icons8.com/?size=512&id=O4SEeX66BY8o&format=png"/> 
+
 ### Workspace
 
 <img width="50" height="50" src="https://seeklogo.com/images/W/windows-11-icon-logo-6C39629E45-seeklogo.com.png"/>  <img width="50" height="50" src="https://seeklogo.com/images/L/Linux_Tux-logo-DA252F3C21-seeklogo.com.png" alt="visual-studio-code-2019"/> <img width="50" height="50" src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png"/> 
