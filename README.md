@@ -3,8 +3,9 @@
 Web Developer | CSE Final Year Student @Adhi College of Engineering and Technology  
 
 <img align='right' width='370' height='290' src='https://user-images.githubusercontent.com/40719899/205479251-ffba5354-583f-491b-a1ef-ce919083e2b1.gif'>  
- 
 
+<img align='right' width='370' height='290' src='https://app.lottiefiles.com/animation/cae69544-a620-4cab-ae89-34731f0da77c'>  
+ 
 - 🎓 Pursuing Computer Science Engineering  
 - 💻 Passionate about Full-Stack Development and Open Source  
 - 🔍 Currently exploring DSA and advanced Full-Stack Development  
