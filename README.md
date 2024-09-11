@@ -1,4 +1,4 @@
-  ## Hi there 👋 I'm Sabari Raj  **</>**
+  ## Hi there 👋 I'm Sabari Raj  **</>**  <img align="right" width="100" height="100" src="https://media3.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif?cid=6c09b952axyi5te3p6pr6n2tur69sezhvijnpi8wg8vxjxi2&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
 
 Web Developer | CSE Final Year Student @Adhi College of Engineering and Technology  
 
