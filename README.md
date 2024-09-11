@@ -15,9 +15,7 @@ Web Developer | CSE Final Year Student @Adhi College of Engineering and Technolo
 - 🌐 Building the web with precision, one line of code at a time!  
 - 😄 Pronouns: Digital Designer (Web Development and UI/UX Design)
 
-<br><br>
-<img src="https://i.pinimg.com/originals/ad/18/74/ad1874f2fb6b3a4c6587052229f82393.gif" height="40" />
-<br><br><br>
+<img src="https://i.pinimg.com/originals/ad/18/74/ad1874f2fb6b3a4c6587052229f82393.gif" height="90" />
 
 ### I Code in
 
