@@ -57,7 +57,7 @@ Web Developer | CSE Final Year Student @Adhi College of Engineering and Technolo
 
 <strong>🏆 Dooboo lab's github stats</strong>
 
-<a href="https://stats.hyochan.dev/en/stats/HwangTaehyun"><img src="https://stats.hyochan.dev/api/github-stats?login=sabarirajpazhani" width="600" /></a>
+<a href="https://stats.hyochan.dev/en/stats/sabarirajpazhani"><img src="https://stats.hyochan.dev/api/github-stats?login=sabarirajpazhani" width="600" /></a>
 
 ### Github Graph
 
