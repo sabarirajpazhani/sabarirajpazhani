@@ -54,6 +54,11 @@ Web Developer | CSE Final Year Student @Adhi College of Engineering and Technolo
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sabarirajpazhani&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+<details> 
+  <summary><h2>🏷️ Holopin Badges</h2></summary>
+
+  <p><a href="https://holopin.io/@sabarirajpazhani"><img src="https://holopin.me/sabarirajpazhani" alt="@sabarirajpazhani&#39;s Holopin board"></a></p>
+</details>
 
 ![Group 3 (1)](https://github.com/user-attachments/assets/8b4dabf7-42ed-4f85-a38e-195d0dd97063)
 
