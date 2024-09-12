@@ -55,5 +55,15 @@ Web Developer | CSE Final Year Student @Adhi College of Engineering and Technolo
 [![trophy](https://github-profile-trophy.vercel.app/?username=sabarirajpazhani&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+  <summary><h2>📊 Stats and Activity</h2></summary>
+
+  <h3>🔥 Streak Stats</h3>
+  <p>
+    <a href="https://github.com/sabarirajpazhani/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=sabarirajpazhani&theme=monokai-metallian&hide_border=true"/>
+    </a>
+  </p>
+
+
 ![Group 3 (1)](https://github.com/user-attachments/assets/8b4dabf7-42ed-4f85-a38e-195d0dd97063)
 
