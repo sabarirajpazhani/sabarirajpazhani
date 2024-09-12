@@ -50,16 +50,16 @@ Web Developer | CSE Final Year Student @Adhi College of Engineering and Technolo
 
 [![Sabari Raj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sabarirajpazhani&bg_color=000000&color=ffffff&line=FF0000&point=ffffff&area=true&hide_border=true)](https://github.com/sabarirajpazhani/github-readme-activity-graph)
 
-## 🏆 GitHub Trophies
+### GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sabarirajpazhani&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-## 📊 Stats and Activity
+### Stats and Activity
   <h3>🔥 Streak Stats</h3>
   <p>
     <a href="https://github.com/sabarirajpazhani/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats-9m8ugfa77-sabarirajpazhani.vercel.app/?user=sabarirajpazhani&theme=monokai-metallian&hide_border=true"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=sabarirajpazhani&theme=monokai-metallian&hide_border=true"/>
     </a>
   </p>
 
