@@ -55,14 +55,5 @@ Web Developer | CSE Final Year Student @Adhi College of Engineering and Technolo
 [![trophy](https://github-profile-trophy.vercel.app/?username=sabarirajpazhani&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
-## ⚡ Recent GitHub Activity
-
-1. 🎉 Merged PR [#715](https://github.com/sabarirajpazhani/github-readme-streak-stats/pull/715) in [sabarirajpazhani/github-readme-streak-stats](https://github.com/sabarirajpazhani/github-readme-streak-stats)
-2. 🎉 Merged PR [#330](https://github.com/sabarirajpazhani/readme-typing-svg/pull/330) in [sabarirajpazhani/readme-typing-svg](https://github.com/sabarirajpazhani/readme-typing-svg)
-3. 🎉 Merged PR [#184](https://github.com/torahcalc/torahcalc/pull/184) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-4. 🎉 Merged PR [#183](https://github.com/torahcalc/torahcalc/pull/183) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-5. 🎉 Merged PR [#180](https://github.com/torahcalc/torahcalc/pull/180) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-
 ![Group 3 (1)](https://github.com/user-attachments/assets/8b4dabf7-42ed-4f85-a38e-195d0dd97063)
 
