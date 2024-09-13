@@ -66,3 +66,20 @@ Web Developer | CSE Final Year Student @Adhi College of Engineering and Technolo
 
 ![Group 3 (1)](https://github.com/user-attachments/assets/8b4dabf7-42ed-4f85-a38e-195d0dd97063)
 
+
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/sabarirajpazhani/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/sabarirajpazhani/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/sabarirajpazhani/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
