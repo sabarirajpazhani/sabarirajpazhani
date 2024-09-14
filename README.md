@@ -44,8 +44,7 @@ Web Developer | CSE Final Year Student @Adhi College of Engineering and Technolo
 
 ### Github Stats
 
-[![Sabari Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabarirajpazhani)](https://github.com/sabarirajpazhani/github-readme-stats)
-
+![sabarirajpazhani's github stats](https://github-readme-stats.vercel.app/api?username=sabarirajpazhani&show_icons=true&theme=dracula&hide=stars,issues)
 
 ### Stats and Activity
   <h3>🔥 Streak Stats</h3>
