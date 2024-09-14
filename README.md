@@ -55,7 +55,7 @@ Web Developer | CSE Final Year Student @Adhi College of Engineering and Technolo
     </a>
   </p>
 
-<strong>🏆 Dooboo lab's github stats</strong>
+### 🏆 Dooboo lab's github stats
 
 <a href="https://stats.hyochan.dev/en/stats/sabarirajpazhani"><img src="https://stats.hyochan.dev/api/github-stats?login=sabarirajpazhani" width="600" /></a>
 
