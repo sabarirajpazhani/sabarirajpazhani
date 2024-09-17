@@ -1,13 +1,13 @@
   ## Hi there 👋 I'm Sabari Raj  **</>** 
   
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150px" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200px" />
   
   <a href="https://github.com/sabarirajpazhani">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Tech+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150px" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200px" />
 </p>
 
 
