@@ -7,6 +7,11 @@
   </p>
 
 
+<p align="center">
+  <img src="https://i.imgur.com/f0kp0rA.gif" alt="Bonfire Animation" width="300px">
+</p>
+
+
 Web Developer | CSE Final Year Student @Adhi College of Engineering and Technology  
 
 <img align="right" width="370" height="390" src="https://github.com/user-attachments/assets/bc54f7f2-7e25-4df9-a690-bd603c6e2d5b">
