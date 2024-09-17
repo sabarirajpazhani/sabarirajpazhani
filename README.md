@@ -48,11 +48,12 @@ Web Developer | CSE Final Year Student @Adhi College of Engineering and Technolo
 ![sabarirajpazhani's github stats](https://github-readme-stats.vercel.app/api?username=sabarirajpazhani&show_icons=true&theme=dracula&hide=stars,issues)
 
 ### 🔥Stats and Activity
-  <p>
-    <a href="https://github.com/sabarirajpazhani/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=sabarirajpazhani&theme=monokai-metallian&hide_border=true"/>
-    </a>
-  </p>
+<p>
+  <a href="https://github.com/sabarirajpazhani">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://streak-stats.demolab.com/?user=sabarirajpazhani&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
+
 
 ### 🏆 Dooboo lab's github stats
 
