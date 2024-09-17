@@ -1,13 +1,10 @@
   ## Hi there 👋 I'm Sabari Raj  **</>** 
-  <h2 align="center">
-  Hi there 👋 I'm Sabari Raj  **</>**
-</h2>
-
-<p align="center">
-  <a href="https://github.com/sabarirajpazhani">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Tech+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
-</p>
+  
+  <p align="center">
+    <a href="https://github.com/sabarirajpazhani">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Tech+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+    </a>
+  </p>
 
 
 Web Developer | CSE Final Year Student @Adhi College of Engineering and Technology  
