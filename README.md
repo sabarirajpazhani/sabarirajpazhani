@@ -10,6 +10,21 @@
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200px" />
 </p>
 
+<div style="display: flex; justify-content: center; align-items: center; height: 300px;">
+  <img src="https://img.icons8.com/color/48/firebase.png" alt="Rotating Image" style="width: 200px; height: 200px; animation: rotation 5s infinite linear;">
+</div>
+
+<style>
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+</style>
+
 
 Web Developer | CSE Final Year Student @Adhi College of Engineering and Technology  
 
