@@ -8,9 +8,6 @@
   </a>
 
   <img src="https://github.com/user-attachments/assets/9e8eb667-2c69-4e07-bde5-7a7222421f3e.gif" width="200px" />
-![9070324cdfc07c68d60eed0c39e77573](https://github.com/user-attachments/assets/cbd55200-abeb-4563-8a3a-eef4d5e48aa9)
-
-
 </p>
 
 
