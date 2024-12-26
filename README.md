@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Tech+Enthusiast;" alt="Typing SVG" />
   </a>
 
-  <img src="https://github.com/user-attachments/assets/9e8eb667-2c69-4e07-bde5-7a7222421f3e" width="200px" />
+  <img src="https://github.com/user-attachments/assets/9e8eb667-2c69-4e07-bde5-7a7222421f3e.gif" width="200px" />
 </p>
 
 
