@@ -48,7 +48,7 @@ Web Developer | CSE Final Year Student @Adhi College of Engineering and Technolo
 
 ### Workspace
 
-<img width="50" height="50" src="https://seeklogo.com/images/W/windows-11-icon-logo-6C39629E45-seeklogo.com.png"/>  <img width="50" height="50" src="https://seeklogo.com/images/L/Linux_Tux-logo-DA252F3C21-seeklogo.com.png" alt="visual-studio-code-2019"/> <img width="50" height="50" src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png"/> 
+<img width="50" height="50" src="https://github.com/user-attachments/assets/a1a4e8cf-be93-456e-9a6a-827c77eebd40"/>  <img width="50" height="50" src="https://github.com/user-attachments/assets/e9aa9871-b02e-4de7-b77c-696f113faef1" alt="visual-studio-code-2019"/> <img width="50" height="50" src="https://github.com/user-attachments/assets/ea10c04a-e387-417f-95bf-82f9be869f3a"/> 
 
 
 ### Most Used Language
