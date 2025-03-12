@@ -50,6 +50,10 @@ Web Developer | CSE Final Year Student @Adhi College of Engineering and Technolo
 
 <img width="50" height="50" src="https://github.com/user-attachments/assets/a1a4e8cf-be93-456e-9a6a-827c77eebd40"/>  <img width="50" height="50" src="https://github.com/user-attachments/assets/e9aa9871-b02e-4de7-b77c-696f113faef1" alt="visual-studio-code-2019"/> <img width="50" height="50" src="https://github.com/user-attachments/assets/ea10c04a-e387-417f-95bf-82f9be869f3a"/> 
 
+### AI tools I use
+
+<img width="50" height="50" src="https://github.com/user-attachments/assets/20484f1c-efe5-4a93-91dd-860b14094cf6"/>  <img width="50" height="50" src="https://github.com/user-attachments/assets/468a99ea-657b-4a51-a27f-0c1b52932fd0"/> <img width="50" height="50" src="https://github.com/user-attachments/assets/1406a4de-5ba4-4014-80f6-dc6daefbe5f1" /> <img width="50" height="50" src="https://github.com/user-attachments/assets/75c00aa3-e89a-4473-8915-f57108a97916" /> <img width="50" height="50" src="https://github.com/user-attachments/assets/c9bc0a67-48cb-471b-8a50-360568835a88" /> 
+
 
 ### Most Used Language
 
