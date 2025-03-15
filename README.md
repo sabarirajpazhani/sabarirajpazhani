@@ -14,7 +14,7 @@
 
 Web Developer | CSE Final Year Student @Adhi College of Engineering and Technology  
 
-<img align="right" width="370" height="390" src="https://github.com/user-attachments/assets/ff45c44a-9810-4516-a5c0-dedff1df5b78">
+<img align="right" width="370" height="390" src="https://github.com/user-attachments/assets/894267c9-91f2-458f-b831-77691b23ea39">
 
 
 - 🎓 Pursuing Computer Science Engineering  
