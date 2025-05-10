@@ -32,6 +32,8 @@ Web Developer | CSE Final Year Student @Adhi College of Engineering and Technolo
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="90" />
 </div>
 
+### Trainee At
+<img width="50" height="50" src="https://github.com/user-attachments/assets/a767424d-d7fc-410e-9b35-fb5271e608f6" alt="Gislen"/>
 
 ### I Code in
 
