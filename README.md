@@ -57,7 +57,8 @@ Web Developer | CSE Final Year Student @Adhi College of Engineering and Technolo
 
 ### AI tools I use
 
-<img width="50" height="50" src="https://github.com/user-attachments/assets/20484f1c-efe5-4a93-91dd-860b14094cf6"/>  <img width="50" height="50" src="https://github.com/user-attachments/assets/468a99ea-657b-4a51-a27f-0c1b52932fd0"/> <img width="50" height="50" src="https://github.com/user-attachments/assets/1406a4de-5ba4-4014-80f6-dc6daefbe5f1" /> <img width="50" height="50" src="https://github.com/user-attachments/assets/75c00aa3-e89a-4473-8915-f57108a97916" /> <img width="50" height="50" src="https://github.com/user-attachments/assets/c9bc0a67-48cb-471b-8a50-360568835a88" /> 
+<img width="50" height="50" src="https://github.com/user-attachments/assets/20484f1c-efe5-4a93-91dd-860b14094cf6"/>  <img width="50" height="50" src="https://github.com/user-attachments/assets/468a99ea-657b-4a51-a27f-0c1b52932fd0"/> <img width="50" height="50" src="https://github.com/user-attachments/assets/1406a4de-5ba4-4014-80f6-dc6daefbe5f1" /> <img width="50" height="50" src="https://github.com/user-attachments/assets/75c00aa3-e89a-4473-8915-f57108a97916" /> <img width="50" height="50" src="https://github.com/user-attachments/assets/c9bc0a67-48cb-471b-8a50-360568835a88" />  <img width="50" height="50" src="https://github.com/user-attachments/assets/cbf2963e-175f-46c0-9c75-9b0f9504d0ce" />
+
 
 
 ### Most Used Language
