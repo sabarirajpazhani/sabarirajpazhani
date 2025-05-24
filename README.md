@@ -48,6 +48,9 @@ Web Developer | CSE Final Year Student @Adhi College of Engineering and Technolo
 
 <img width="70" height="70" src="https://img.icons8.com/?size=512&id=O4SEeX66BY8o&format=png"/> <img width="70" height="70" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp"/> <img width="70" height="70" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg"/> <img width="70" height="70" src="https://dmmy6mpbxgeck.cloudfront.net/68b82ab2-3e36-4428-aa21-6e5e2cd407c5/widget/8f96fa5f-3a91-4de7-8881-c62376b37acf"/>  <img width="70" height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png"/>  
 
+### Currently Learning
+<img width="70" height="70" src="https://github.com/user-attachments/assets/77be1cdd-4aa3-4c28-bbc7-258a9e4844b7"/> 
+
 ### Workspace
 
 <img width="50" height="50" src="https://github.com/user-attachments/assets/a1a4e8cf-be93-456e-9a6a-827c77eebd40"/>  <img width="50" height="50" src="https://github.com/user-attachments/assets/e9aa9871-b02e-4de7-b77c-696f113faef1" alt="visual-studio-code-2019"/> <img width="50" height="50" src="https://github.com/user-attachments/assets/ea10c04a-e387-417f-95bf-82f9be869f3a"/> 
