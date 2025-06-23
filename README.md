@@ -32,7 +32,8 @@ Full Statck Developer | Software Engineer Trainee @Gislen Software | CSE Graduat
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="90" />
 </div>
 
-
+### Trainee at
+<img width="50" height="50" src="https://github.com/user-attachments/assets/a8803b9d-6b38-4859-b0ee-df427496f260" alt="GislenSoftware"/>
 
 ### I Code in
 
