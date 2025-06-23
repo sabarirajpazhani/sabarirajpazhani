@@ -12,7 +12,7 @@
 
 
 
-Web Developer | CSE Final Year Student @Adhi College of Engineering and Technology  
+Full Statck Developer | Software Engineer Trainee @Gislen Software | CSE Graduate from @Adhi College of Engineering and Technology
 
 <img align="right" width="370" height="390" src="https://github.com/user-attachments/assets/894267c9-91f2-458f-b831-77691b23ea39">
 
